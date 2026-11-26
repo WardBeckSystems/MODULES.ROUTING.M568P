@@ -1,16 +1,16 @@
-# M568P · Routing
+# M568P Assignment Module · Routing
 
 Ward-Beck Systems M568P. Wiki page: [M568P on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568P.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 18 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 19 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
 
 ## Photos
@@ -58,6 +58,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL.kicad_sch)
 - [19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC.kicad_sch)
 - [M568P.kicad_sym](KICAD/M568P.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
