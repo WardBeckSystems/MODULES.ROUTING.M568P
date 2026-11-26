@@ -22,7 +22,7 @@ Wiki page: [M568P](../../../../PAGES/M568P.md)
 - **Words (OCR):** 86 in 83 lines: 182P1 · 22P · 22p · 10/25 · Rz · LHBSSN · 10/25 · RS · C3O · 10/25 · RS · 22/25
 - **Title block:** (108, 44)–(308, 195) mm: WBS · CANADA · 14-182 · ISSUE · WES · WARD-BECK
 
-Every curve, box, word and wire group: [19xx - M568P - 14-182-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%2014-182-06-001%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568P - 14-182-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568P - 14-182-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%2014-182-06-001%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568P - 14-182-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

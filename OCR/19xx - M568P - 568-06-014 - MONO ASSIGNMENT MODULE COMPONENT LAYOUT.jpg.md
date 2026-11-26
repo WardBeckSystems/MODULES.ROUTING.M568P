@@ -22,7 +22,7 @@ Wiki page: [M568P](../../../../PAGES/M568P.md)
 - **Words (OCR):** 148 in 127 lines: R67 · On · R69 · OP · 22p · R71 · or · 22p · R73 · 48238286222 220/10 · ZcF-Ght-AA · R94
 - **Title block:** (234, 43)–(333, 238) mm: A0 OB · Reszk+ · WBS · CANADA · 14-181 · R8z22k · ISSUE · WBS WARD-BECK · MS68P
 
-Every curve, box, word and wire group: [19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-06-014%20-%20MONO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-06-014%20-%20MONO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

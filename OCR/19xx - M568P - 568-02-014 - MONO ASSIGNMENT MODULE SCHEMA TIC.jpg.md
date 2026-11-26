@@ -24,7 +24,7 @@ Wiki page: [M568P](../../../../PAGES/M568P.md)
 - **Title block:** (344, 27)–(432, 45) mm: WBS WARD-BECK SYSTEN · MSB8P
 - **Wiring (first pass):** 161 connected wire groups from 1,324 runs
 
-Every curve, box, word and wire group: [19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC (traced).dxf`).
 
 ## Full text
 

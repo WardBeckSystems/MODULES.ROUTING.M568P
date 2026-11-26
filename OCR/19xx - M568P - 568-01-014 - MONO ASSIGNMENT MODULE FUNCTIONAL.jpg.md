@@ -23,7 +23,7 @@ Wiki page: [M568P](../../../../PAGES/M568P.md)
 - **Words (OCR):** 42 in 40 lines: PRE EQ · ~6 dBm · TRACX OUT · UNBAL · +4/+8 dBm · POSTFADE · MONO · PAN · POSTFADE · CUTPUT · dBm · dBM
 - **Wiring (first pass):** 81 connected wire groups from 329 runs; labelled ends: 27 mm → TRACX OUT, +4/+8 dBm; 20 mm → WES, WARD-BECK; 20 mm → WES, WARD-BECK; 19 mm → POSTFADE; 19 mm → PLAMBACX, +4/+8 d8m
 
-Every curve, box, word and wire group: [19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

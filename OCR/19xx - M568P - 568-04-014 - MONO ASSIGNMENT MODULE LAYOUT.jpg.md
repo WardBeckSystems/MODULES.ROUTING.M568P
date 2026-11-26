@@ -21,7 +21,7 @@ Wiki page: [M568P](../../../../PAGES/M568P.md)
 - **Words (OCR):** 32 in 30 lines: WBS · 4568P · PAN LV · 181J1 · MON · FE · SAI+-182 · PST · TRACK · AMPUFIER · PRE · ASSEMBLY
 - **Title block:** (330, 24)–(418, 275) mm: WBS · 4568P · PAN LV · MON · PST · TRACK · PRE · AUX · PST · 10 · PRE · PST · AUX · WBS · WARD-BECK SYSTEM · MsO8P
 
-Every curve, box, word and wire group: [19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M568P%20-%20568-04-014%20-%20MONO%20ASSIGNMENT%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M568P%20-%20568-04-014%20-%20MONO%20ASSIGNMENT%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 
