@@ -1,5 +1,5 @@
 # 19xx - M568P - 14-182-06-001 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M568P](../../../../PAGES/M568P.md)
+Wiki page: [M568P](../)
 
 
 - **Year:** unknown (unknown)

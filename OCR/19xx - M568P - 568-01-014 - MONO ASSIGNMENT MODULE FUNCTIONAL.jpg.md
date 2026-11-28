@@ -1,5 +1,5 @@
 # 19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.jpg
-Wiki page: [M568P](../../../../PAGES/M568P.md)
+Wiki page: [M568P](../)
 
 
 - **Year:** unknown (unknown)

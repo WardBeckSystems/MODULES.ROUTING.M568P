@@ -1,6 +1,6 @@
 # M568P Assignment Module · Routing
 
-Ward-Beck Systems M568P. Wiki page: [M568P on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568P.html)
+Ward-Beck Systems M568P. Wiki page: [M568P on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568P/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.jpg
-Wiki page: [M568P](../../../../PAGES/M568P.md)
+Wiki page: [M568P](../)
 
 
 - **Year:** unknown (unknown)
