@@ -4,13 +4,11 @@ Ward-Beck Systems M568P. Wiki page: [M568P on WBSps.ca](https://wardbecksystems.
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 19 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 18 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
 
 ## Photos
@@ -48,8 +46,7 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKX3Q3NU1CT01SWWc/view?resourcekey=0-UIlxfB73WjSn1RUd4zaZSQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKX3Q3NU1CT01SWWc&resourcekey=0-UIlxfB73WjSn1RUd4zaZSQ" width="240" alt="19xx - M568P - [DWG 14-182-06-001] - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568P - [DWG 14-182-06-001] - AMPLIFIER ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20%5BDWG%2014-182-06-001%5D%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYy1nYmRjcjYtcW8/view?resourcekey=0-QbJgnpfC3VLICR1DZXWBOg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYy1nYmRjcjYtcW8&resourcekey=0-QbJgnpfC3VLICR1DZXWBOg" width="240" alt="19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.jpg"></a><br><sub>19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV1BmOEdyNlFnMkk/view?resourcekey=0-T03S_2-IiJHQq4mjl-co4A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV1BmOEdyNlFnMkk&resourcekey=0-T03S_2-IiJHQq4mjl-co4A" width="240" alt="19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.jpg"></a><br><sub>19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKam8tS0Mtcnp6QlE/view?resourcekey=0-nvT_SwOzlTotvlNAkPPkZw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKam8tS0Mtcnp6QlE&resourcekey=0-nvT_SwOzlTotvlNAkPPkZw" width="240" alt="19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-06-014%20-%20MONO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYy1nYmRjcjYtcW8/view?resourcekey=0-QbJgnpfC3VLICR1DZXWBOg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYy1nYmRjcjYtcW8&resourcekey=0-QbJgnpfC3VLICR1DZXWBOg" width="240" alt="19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.jpg"></a><br><sub>19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV1BmOEdyNlFnMkk/view?resourcekey=0-T03S_2-IiJHQq4mjl-co4A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV1BmOEdyNlFnMkk&resourcekey=0-T03S_2-IiJHQq4mjl-co4A" width="240" alt="19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.jpg"></a><br><sub>19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKam8tS0Mtcnp6QlE/view?resourcekey=0-nvT_SwOzlTotvlNAkPPkZw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKam8tS0Mtcnp6QlE&resourcekey=0-nvT_SwOzlTotvlNAkPPkZw" width="240" alt="19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568P - 568-06-014 - MONO ASSIGNMENT MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568P%20-%20568-06-014%20-%20MONO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Manuals and documents
@@ -67,7 +64,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M568P%20-%20568-01-014%20-%20MONO%20ASSIGNMENT%20MODULE%20FUNCTIONAL.kicad_sch)
 - [19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M568P%20-%20568-02-014%20-%20MONO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC.kicad_sch)
 - [M568P.kicad_sym](KICAD/M568P.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
